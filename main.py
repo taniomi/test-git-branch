@@ -1,3 +1,5 @@
+import test
+
 def get_op():
     op = input()
     return op
